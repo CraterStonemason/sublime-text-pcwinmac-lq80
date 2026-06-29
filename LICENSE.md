@@ -1,4 +1,4 @@
-# 
+# Officiel Sublime Text outils pour Mac OS | Turbo Sublime Text outils pour PC Windows. Avec vue blame et clonage de dépôts — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
